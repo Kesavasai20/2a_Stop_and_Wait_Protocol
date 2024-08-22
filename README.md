@@ -1,5 +1,5 @@
-# 2a_Stop_and_Wait_Protocol
-## AIM 
+# 2a_Stop_and_Wait_Protocol:
+## AIM :
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
 1. Start the program.
@@ -43,5 +43,5 @@ while True:
 ## Server:
 ![Screenshot 2024-08-22 215417](https://github.com/user-attachments/assets/ac63b04b-9738-4d8c-809c-413cb1c135ba)
 
-## RESULT
+## RESULT:
 Thus, python program to perform stop and wait protocol was successfully executed.
