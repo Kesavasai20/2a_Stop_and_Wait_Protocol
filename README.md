@@ -1,4 +1,6 @@
-# 2a_Stop_and_Wait_Protocol:
+## 2a_Stop_and_Wait_Protocol:
+## NAME: K KESAVA SAI
+## REGISTER NUMBER: 212223230105
 ## AIM :
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
